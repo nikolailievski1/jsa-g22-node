@@ -40,4 +40,3 @@ const studenti = [
 // studenti.forEach(s => {
 //     console.log(s.ime);
 // })
-
